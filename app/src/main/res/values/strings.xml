@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaundryApp</string>
+    <string name="services">Services</string>
+    <string name="payment_method">Payment Method</string>
+</resources>

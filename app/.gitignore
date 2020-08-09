@@ -1,0 +1,8 @@
+/build
+/../local.properties
+/../gradle/wrapper/gradle-wrapper.properties
+/proguard-rules.pro
+/../gradle.properties
+/../settings.gradle
+/src/androidTest/java/com/bepari/laundryapp/
+/src/test/java/com/bepari/laundryapp/
