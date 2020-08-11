@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098756444833",
+    "firebase_url": "https://bepari-laundry.firebaseio.com",
+    "project_id": "bepari-laundry",
+    "storage_bucket": "bepari-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098756444833:android:923dd4e737220f081096e0",
+        "android_client_info": {
+          "package_name": "com.bepari.laundryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098756444833-n2a77cej00dn302v9mjl1l6dfcrnq2m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bepari.laundryapp",
+            "certificate_hash": "b21f5c3ee1312eb56527a7d3c4f37d1687dfc3b9"
+          }
+        },
+        {
+          "client_id": "1098756444833-s3v9pil3hoc3bapie5d90g41pspm6lca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjNzGyqX_nkO7-B_bd__PuvMP04Z9HVuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098756444833-s3v9pil3hoc3bapie5d90g41pspm6lca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
