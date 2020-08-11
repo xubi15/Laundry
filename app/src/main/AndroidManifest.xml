@@ -21,6 +21,8 @@
         </activity>
         <activity android:name=".activity.PaymentActivity" />
         <activity android:name=".activity.FinalActivity" />
+        <activity android:name=".activity.ChoseLocationActivity" />
+        <activity android:name=".activity.ScheduleActivity" />
     </application>
 
 </manifest>

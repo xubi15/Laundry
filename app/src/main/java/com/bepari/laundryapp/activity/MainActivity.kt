@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun proceed(view: View) {
-        startActivity(Intent(this, PaymentActivity::class.java))
+        startActivity(Intent(this, ChoseLocationActivity::class.java))
     }
 
 }
